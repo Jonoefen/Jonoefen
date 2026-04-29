@@ -37,7 +37,3 @@ I am a final-year Software Engineering student with a passion for **Machine Lear
 - **Deployment:** Render
 - **Status:** Live 🚀
 
----
-
-## 📊 GitHub Stats
-![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonoefen&show_icons=true&theme=tokyonight)
