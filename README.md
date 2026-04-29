@@ -31,7 +31,7 @@ I am a final-year Software Engineering student with a passion for **Machine Lear
 ---
 
 ## 🏆 Featured Project
-### [Diabetes Risk Segmentation App](YOUR_PROJECT_LINK_HERE)
+### [Diabetes Risk Segmentation App](https://github.com/Jonoefen/Diabetes-Risk-Segmentation-and-Decision-Support-System)
 *A full-stack ML solution using XGBoost and DASH to provide real-time health insights.*
 - **Tech:** Python, XGBoost, SHAP, DASH
 - **Deployment:** Render
