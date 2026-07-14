@@ -32,7 +32,7 @@ I am a final-year Software Engineering student with a passion for **Machine Lear
 
 ## 🚀 Featured Project
 
-### **Smart Event Management & Ticketing Platform** ()
+### **Smart Event Management & Ticketing Platform** (https://github.com/Jonoefen/Smart_Event_and_Ticketing_Platform)
 *A high-performance, full-stack ticketing ecosystem designed for seamless, real-time ticket sales and secure event administration.*
 
 * **My Role:** Frontend Developer & Team Lead
