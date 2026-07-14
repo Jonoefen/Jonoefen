@@ -30,10 +30,17 @@ I am a final-year Software Engineering student with a passion for **Machine Lear
 
 ---
 
-## 🏆 Featured Project
-### [Diabetes Risk Segmentation App](https://github.com/Jonoefen/Diabetes-Risk-Segmentation-and-Decision-Support-System)
-*A full-stack ML solution using XGBoost and DASH to provide real-time health insights.*
-- **Tech:** Python, XGBoost, SHAP, DASH
-- **Deployment:** Render
-- **Status:** Live 🚀
+## 🚀 Featured Project
+
+### **Smart Event Management & Ticketing Platform** ()
+*A high-performance, full-stack ticketing ecosystem designed for seamless, real-time ticket sales and secure event administration.*
+
+* **My Role:** Frontend Developer & Team Lead
+* **The Team:** Collaborated with Chanzel Hammond, Edward Goosen, Dewald Allers, and Gerald Enright.
+* **Tech Stack:** React, Node.js, Express.js, MongoDB, Mongoose, Tailwind CSS
+
+### 🔑 Key Features
+* ⚡ **Real-Time Booking:** Highly responsive ticketing interface ensuring fast inventory state updates.
+* 🛡️ **Secure Ticket Issuance:** Robust checkout system and data schema integrity with Mongoose.
+* 📊 **Organizer Dashboard:** Advanced interface for administrators to track sales, manage events, and monitor attendance metrics.
 
